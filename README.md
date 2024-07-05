@@ -2,6 +2,10 @@
 
 This project utilizes the CSS Paint API to dynamically generate background patterns on webpages. It allows customization of both box sizes and line thickness within the pattern.
 
+## Live Demo
+
+[here](https://erkanercann.github.io/css-paint-api/)
+
 ## Installation
 
 To run this project locally, follow these steps:
