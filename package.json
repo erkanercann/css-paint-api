@@ -1,0 +1,18 @@
+{
+    "name": "css-paint-api",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "dev": "gulp watch"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+        "browser-sync": "^3.0.2",
+        "gulp": "^5.0.0",
+        "gulp-sass": "^5.1.0",
+        "sass": "^1.77.6"
+    }
+}
